@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "0.1.0",
+    "name": "John's Extension",
+    "description": "Extensão para estudos",
+    "author": "João Victor Lopes Silva",
+    "action":{
+        "default_title": "John's Extension",
+        "default_popup": "index.html"
+    }
+}
